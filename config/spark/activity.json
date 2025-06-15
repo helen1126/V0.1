@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Helen1126",
+      "uniqueId": "7fadae21-2fee-497a-a067-5e8bc64dc2ac"
+    },
+    "time": 1749996309057,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sRtvZ7axsj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Helen1126",
+      "uniqueId": "7fadae21-2fee-497a-a067-5e8bc64dc2ac"
+    },
+    "time": 1749994883975,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/faDr9O1vtB"
+    }
+  }
+]
